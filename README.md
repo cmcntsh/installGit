@@ -1,5 +1,7 @@
 # Install Git
 
+A video demonstration of installing Git on a computer running Windows 10 is available at: https://youtu.be/4Y46oqbct-8
+
 ## Preinstall Check
 
 Before installing Git, it's not a bad idea to check if it's already installed.
@@ -15,6 +17,9 @@ Before installing Git, it's not a bad idea to check if it's already installed.
 * Go to https://git-scm.com/downloads
 * Download the correct installer for your operating system. 
 * Run the install program after it downloads.
+  * I used the default settings for most options with a couple of exceptions.
+  * At time index 4:00 (4 minutes) I selected Notepad as the default editor. Notepad is on all Windows computers. You can probably just use the default choice on a Mac.
+  * At time index 4:27 I selected Override the default branch name for new repositories and left the name "main" in the window.
 * Post a screen shot in the discussion or come to office hours if you run into problems.
 
 ## Confirm Installation
